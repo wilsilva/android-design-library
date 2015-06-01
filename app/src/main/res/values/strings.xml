@@ -7,4 +7,6 @@
     <string name="name">Type your name here</string>
     <string name="save">save</string>
     <string name="name_required">Ops, we need your name!</string>
+    <string name="navigation_item_1">Item 1</string>
+    <string name="navigation_item_2">Item 2</string>
 </resources>
